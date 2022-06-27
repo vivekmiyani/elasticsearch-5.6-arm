@@ -1,4 +1,4 @@
-# Elasticsearch 5.6
+# Elasticsearch 5.6 ARM
 
 This repo is to run elasticsearch 5.6 on ARM based machines.
 
